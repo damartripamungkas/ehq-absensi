@@ -32,9 +32,9 @@ Project ini di buat untuk mereka yang memerlukan software absensi qr code, tetap
 ## Step to install
 1. download zip
 2. extract zip
-3. atur konfigurasi di file config/config.json
-4. npm install
-5. node setup
+
+3. npm install
+4. node setup
 5. node index
 
 ## Tech stack used
