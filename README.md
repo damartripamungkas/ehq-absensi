@@ -48,7 +48,7 @@ Project ini di buat untuk mereka yang memerlukan software absensi qr code, tetap
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
 ## Need help for installation
-Jika anda membutuhkan bantuan untuk instalasi software silahkan hubungi saya melalui telegram (not free) <i>@damartripamungkas</i> 
+Jika anda membutuhkan bantuan untuk instalasi software silahkan hubungi saya melalui telegram <i>@damartripamungkas</i> 
 
 ## License
 Licensed under the [GPL-3.0 License](./LICENSE).
