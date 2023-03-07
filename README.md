@@ -46,7 +46,7 @@ Project ini di buat untuk mereka yang memerlukan software absensi qr code, tetap
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
-# Tutorial video installation
+## Tutorial video installation
 https://www.youtube.com/watch?v=CO7hELz4-TM&t=1s
 
 ## Need help for installation
