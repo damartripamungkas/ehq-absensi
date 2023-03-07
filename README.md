@@ -32,7 +32,6 @@ Project ini di buat untuk mereka yang memerlukan software absensi qr code, tetap
 ## Step to install
 1. download zip
 2. extract zip
-
 3. npm install
 4. node setup
 5. node index
@@ -46,6 +45,9 @@ Project ini di buat untuk mereka yang memerlukan software absensi qr code, tetap
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+
+# Tutorial video installation
+https://www.youtube.com/watch?v=CO7hELz4-TM&t=1s
 
 ## Need help for installation
 Jika anda membutuhkan bantuan untuk instalasi software silahkan hubungi saya melalui telegram <i>@damartripamungkas</i> 
