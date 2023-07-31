@@ -1,0 +1,51 @@
+        html,
+        body {
+          height: 100% !important;
+        }
+
+        .no-border {
+          border: 0 !important;
+        }
+
+        .bg-body {
+          background-image: url("../assets/images/bg-1.svg");
+          background-size: 100%;
+        }
+
+        .font-bold {
+          font-weight: bold;
+        }
+
+        .bg-transparent {
+          background-color: transparent;
+        }
+
+        .bg-black {
+          background-color: black;
+        }
+
+        .border-transparent {
+          border-color: transparent;
+        }
+
+        .fullscreen {
+          position: fixed;
+          top: 0;
+          left: 0;
+          bottom: 0;
+          right: 0;
+          overflow: auto;
+          /* Just to visualize the extent */
+        }
+
+        .full-height {
+          height: 100%;
+        }
+
+        .font-h5-responsive {
+          font-size: calc(0.8em + 1vmin);
+        }
+
+        .no-border {
+          border: 0 !important;
+        }

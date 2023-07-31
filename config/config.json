@@ -1,0 +1,28 @@
+{
+    "webserver_port": "3000",
+    "app_name": "UNIVERSITY OF HARVARD",
+    "time_zone": "Asia/Jakarta",
+    "time_absen": {
+        "min_masuk": "05:00",
+        "max_masuk": "07:00",
+        "max_ijin": "07:00",
+        "max_terlambat": "08:00"
+    },
+    "database_settings": {
+        "host": "127.0.0.1",
+        "port": "3306",
+        "database": "db_absens",
+        "username": "root",
+        "password": "",
+        "logging": true,
+        "dialect": "mariadb",
+        "pool": {
+            "max": 100,
+            "min": 0,
+            "idle": 10000
+        },
+        "dialectOptions": {
+            "connectTimeout": 1000
+        }
+    }
+}

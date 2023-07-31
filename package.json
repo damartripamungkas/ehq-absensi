@@ -1,0 +1,30 @@
+{
+  "name": "ehq-absensi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "url": "https://github.com/damartripamungkas/ehq-absensi",
+  "author": "damartripamungkas",
+  "author_url": "https://github.com/damartripamungkas",
+  "author_donate": "https://github.com/damartripamungkas",
+  "author_instagram": "@damartripamungkass",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "console-table-printer": "^2.9.0",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.5",
+    "eta": "^2.0.0",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.6.0",
+    "inquirer": "^8.1.1",
+    "jsonwebtoken": "^9.0.0",
+    "logging-pretty": "^1.0.3",
+    "mariadb": "^3.0.2",
+    "mysql2": "^3.0.1",
+    "node-cron": "^3.0.2",
+    "sequelize": "^6.27.0"
+  }
+}
