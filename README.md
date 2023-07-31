@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/damartripamungkas/ehq-absensi/raw/main/images/home.png?raw=true"/>
+  <img src="https://github.com/damartripamungkas/ehq-absensi/raw/master/images/home.png?raw=true"/>
 </p>
 
 ---
