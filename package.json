@@ -22,7 +22,7 @@
     "inquirer": "^8.2.7",
     "jsonwebtoken": "^9.0.0",
     "logging-pretty": "^1.0.3",
-    "mariadb": "^3.0.2",
+    "mariadb": "^3.2.5",
     "mysql2": "^3.23.1",
     "node-cron": "^3.0.2",
     "sequelize": "^6.37.8"
