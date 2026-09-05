@@ -23,7 +23,7 @@
     "jsonwebtoken": "^9.0.0",
     "logging-pretty": "^1.0.3",
     "mariadb": "^3.0.2",
-    "mysql2": "^3.9.8",
+    "mysql2": "^3.23.1",
     "node-cron": "^3.0.2",
     "sequelize": "^6.37.8"
   }
